@@ -1,3 +1,3 @@
-# samuel-drive
+# redirects example
 
-drive of samuelcherukuri@gmail.com
+how to redirect
